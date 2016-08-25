@@ -106,7 +106,7 @@ module ActiveAdminImport
           'application/csv',
           'application/vnd.ms-excel',
           'application/vnd.msexcel',
-          
+          'application/force-download',
       ]
     end
 
